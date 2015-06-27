@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.siddarthshikhar.yogaapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+
+    <application
+        android:name="com.example.siddarthshikhar.yogaapp.SampleApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="THE POWER YOGA"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCKJQnt9Sge6qHYItQEmA6M6yaTwMaMjf0" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/google_maps_key" />
+        <!-- Splash screen -->
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.Splash"
+            android:label="THE POWER YOGA"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.Activity2"
+            android:label="THE POWER YOGA" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.Loginactivity"
+            android:label="THE POWER YOGA"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.Registeract"
+            android:label="THE POWER YOGA"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.Intro"
+            android:label="THE POWER YOGA" >
+        </activity>
+        <activity android:name="com.example.siddarthshikhar.yogaapp.DispatchActivity" />
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.BookClass"
+            android:label="@string/title_activity_book_class"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.MyProfile"
+            android:label="@string/title_activity_my_profile"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.SignUpOrLoginActivity"
+            android:label="SignUpOrLogin"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.MapsActivity"
+            android:label="MapsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service
+            android:name="com.example.siddarthshikhar.yogaapp.FetchAddressIntentService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.ConfirmAddress"
+            android:label="@string/title_activity_confirm_address"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.BookingConfirmation"
+            android:label="@string/title_activity_booking_confirmation"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.MyScheduleActivity"
+            android:label="@string/title_activity_my_schedule"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.ReportActivity"
+            android:label="@string/title_activity_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.AboutUsActivity"
+            android:label="@string/title_activity_about_us"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.siddarthshikhar.yogaapp.EditProfileActivity"
+            android:label="@string/title_activity_edit_profile"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
+
+        <receiver
+            android:name="com.google.android.gms.wallet.EnableWalletOptimizationReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

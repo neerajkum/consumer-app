@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="@drawable/benf3"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/view0"
+                android:padding="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:src="@drawable/mededit"
+                 />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:textAllCaps="false"
+                android:textColor="#ff252f8f"
+                android:text=" Yoga is a mind and body practice which originates from India. It combines physical postures, breathing techniques and meditation or relaxation"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:textAllCaps="true"
+                android:textColor="#ff252f8f"
+                android:text="YOGA FOR MIND"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:textAllCaps="false"
+                android:textColor="#ff252f8f"
+                android:text="Yoga aims to help you relax and concentrate on your breathing. It does this by changing the balance in what’s called your autonomic nervous system.
+Your autonomic nervous system works automatically, and helps to regulate certain body processes, such as your rate of breathing and blood pressure. It’s made up of two parts: a sympathetic division and a parasympathetic division.
+Yoga focuses on shifting the balance from your sympathetic nervous division to your parasympathetic nervous division. When this happens, your breathing and heart rate are lowered, and you feel more relaxed."/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:textAllCaps="true"
+                android:textColor="#ff252f8f"
+                android:text="YOGA FOR BODY"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:textAllCaps="false"
+                android:textColor="#ff252f8f"
+                android:text="Yoga works your whole body and can help you build strength and flexibility. It may help to strengthen muscles that don’t get much attention during other body workouts, such as your lower back.
+Yoga also takes your joints and the tissue that surrounds them through a full range of motion. This may help improve the flow of oxygen-rich blood to these parts of your body.
+In addition to building strength and flexibility, yoga can also help to stimulate some of your organs, glands and nerves"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
+<!-- From: file:/C:/Users/Siddarth%20Shikhar/AndroidStudioProjects/YogaApp/app/src/main/res/layout/intro.xml -->

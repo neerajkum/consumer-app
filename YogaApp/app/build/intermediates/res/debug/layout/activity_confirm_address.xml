@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.siddarthshikhar.yogaapp.ConfirmAddress">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:paddingLeft="15dp"
+        android:layout_height="0dp"
+        android:layout_weight="2"></FrameLayout>
+    <TextView android:text="We have recieved your address as: " android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="left|center"
+        android:paddingLeft="15dp"
+        android:layout_weight="1"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"></FrameLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingLeft="15dp"
+        android:layout_weight="4"
+        android:id="@+id/already_selected_address"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></FrameLayout>
+    <TextView android:text="Add details to your address: " android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="left|center"
+        android:paddingLeft="15dp"
+        android:layout_weight="1"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"></FrameLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingLeft="15dp"
+        android:layout_weight="4"
+        android:background="@drawable/rectanglewhitebackgr"
+        android:id="@+id/edit_selected_address"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Confirm Address"
+            android:id="@+id/confirm_edited_address"
+            android:onClick="onClick"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/Siddarth%20Shikhar/AndroidStudioProjects/YogaApp/app/src/main/res/layout/activity_confirm_address.xml -->

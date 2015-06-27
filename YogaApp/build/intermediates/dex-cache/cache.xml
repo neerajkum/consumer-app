@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-ee874adf55839d5a06c6447d8cf0de73016495d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f7c52da0eac43eed51e385d91c58cde6628e7b26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-9f7bf880df16c00b3fba519375eac981b103593d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-3a719b6d851f2beb4891e06aef60d279bfb1e4c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-0c049ffb9695af8a43ef8dcfa190fcb3b2e598c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-d8be01e657a5e7ec0828b1450f7ad7e033154379.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-1a212df27edc964f9757dd0696f0ddab11d92338.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-ba2cd7d45da82736304b5ab3440be7a407d93d6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5201358c4bcffbf7c93c5607e4062f681b008f60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-730f81534012b3b084852dc6f730676dec43ea1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-7fd9ac4069f74963c71a9c0cd10e4ac9cec994a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-918f1bed99658fa1aa4602258e2e3fd9b1a93137.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-15ee8cb4ffd5306c7d1321d1d50514ce84fcea71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-4859c2c87db5fd2ab65ca6993912b17835a95e20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-0932a4ac3dce669dfb5903f3d92b84133382b49a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-f03f24531de428af9641a76bbc98641ef5b3d475.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-19415dbdc922b436d4137c91242c363b40b4b4a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-dfd5389d9d7ff31a0223b0a674b29c064666e19f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-dde890ebafb2788084105ee8ca5a31195269dc28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-0781a862c7576965b019aa0dba7e5ca60cc47ea4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-dafcf8537781530e62e8377e874315cde60f6d5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-8abb6fd3f2b97eabfc2040e7e61860782d3ddb1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-632cb060fcca64ef6ccb6f5cfef91fcc1a723d73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-c261171995332a4dd0d93866c048ad2031f7a4b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-4ef97da7315e6cc9e8db3c144a674b7017c657b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-6889c96d8dd8541b745c7c0d1b2906a27ace4520.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-b05083323318e99498ecde5a46a2f3d70b35db66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Siddarth Shikhar\AndroidStudioProjects\YogaApp\app\build\intermediates\pre-dexed\debug\classes-fb7b144c42aa1ab153771595ddf8efe31f4ecd88.jar" />
+    </item>
+
+</items>
